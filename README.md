@@ -11,7 +11,7 @@ https://www.farpost.ru/vladivostok/service/construction/guard/+/Системы+�
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/PavelITJun/Test_it_solutions1.git
+    git clone https://github.com/PavelITJun/Test_it_solutions001.git
     ```
    
 2. Создайте и активируйте виртуальное окружение(Python 3.9 или выше):
